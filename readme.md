@@ -63,6 +63,8 @@ sudo apt-get install rethinkdb
 # Check installation.
 rethinkdb --version
   ```
+Referência: [rethinkdb oficial](https://rethinkdb.com/)
+
 
   #### Precisa dar permissão para acessar /usr/local/lib e /usr/local/bin, ao usuário atual:
   ```
